@@ -1,0 +1,15 @@
+
+\
+java:S1854":Remove this useless assignment to local variable "catBox".(üÐªæþÿÿÿÿ8 ÍÆÍ„2
+W
+java:S1854
+":Remove this useless assignment to local variable "objBox".(áß‰Ë8 ÍÆÍ„2
+H
+java:S1481
+"+Remove this unused "objBox" local variable.(áß‰Ë8¢ÍÆÍ„2
+M
+java:S1481"+Remove this unused "catBox" local variable.(üÐªæþÿÿÿÿ8£ÍÆÍ„2
+G	java:S106"+Replace this use of System.out by a logger.(Ø„©‚8¤ÍÆÍ„2
+G	java:S106"+Replace this use of System.out by a logger.(Æ×þ”8¥ÍÆÍ„2
+9
+java:S1116"Remove this empty statement.(Æ×þ”8¦ÍÆÍ„2

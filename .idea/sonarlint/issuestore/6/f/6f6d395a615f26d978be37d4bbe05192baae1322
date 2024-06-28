@@ -1,0 +1,7 @@
+
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "answer".(ıüÁ8¶§ÌÊ…2
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”¶‹z8·§ÌÊ…2
+7
+java:S1220""Move this file to a named package.8¹§ÌÊ…2
+L	java:S106	"+Replace this use of System.out by a logger.(†ç‚‹üÿÿÿÿ8Â§ÌÊ…2

@@ -1,0 +1,8 @@
+
+\
+java:S1854"?Remove this useless assignment to local variable "integerBox2".(¶¹àë8ºœ™¶‚2
+L	java:S106"+Replace this use of System.out by a logger.(ªä€íûÿÿÿÿ8³éÎµ‚2
+L	java:S106"+Replace this use of System.out by a logger.(´¾Ó²şÿÿÿÿ8µéÎµ‚2
+G	java:S106"+Replace this use of System.out by a logger.(ûêØ8ÀîÓµ‚2
+M
+java:S1481"0Remove this unused "integerBox2" local variable.(¶¹àë8Àœ™¶‚2

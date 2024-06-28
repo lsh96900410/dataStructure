@@ -1,0 +1,14 @@
+
+Z
+java:S1854"8Remove this useless assignment to local variable "num3".(À»ÆŒıÿÿÿÿ8ÖãŠ÷„2
+Z
+java:S1854"8Remove this useless assignment to local variable "num2".(‹Ô¸§úÿÿÿÿ8ÖãŠ÷„2
+U
+java:S1854"8Remove this useless assignment to local variable "num1".(¬°¹õ8Î¢Š÷„2
+L	java:S106"+Replace this use of System.out by a logger.(¦¥àşÿÿÿÿ8Ñ¢Š÷„2
+F
+java:S1481")Remove this unused "num1" local variable.(¬°¹õ8Ò¢Š÷„2
+K
+java:S1481")Remove this unused "num2" local variable.(‹Ô¸§úÿÿÿÿ8ÚãŠ÷„2
+K
+java:S1481")Remove this unused "num3" local variable.(À»ÆŒıÿÿÿÿ8ûŠ÷„2

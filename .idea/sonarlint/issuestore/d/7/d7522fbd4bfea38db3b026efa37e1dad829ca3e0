@@ -1,0 +1,11 @@
+
+f
+java:S1192"JDefine a constant instead of duplicating this literal "ì´ë¦„ = " 4 times.(òÈ8ú—ÀÍ„2
+\
+java:S1118":Add a private constructor to hide the implicit public one.(š¯”ûÿÿÿÿ8³‚¦Í„2
+L	java:S106"+Replace this use of System.out by a logger.(ÂØŞşÿÿÿÿ8¶‚¦Í„2
+F	java:S106"+Replace this use of System.out by a logger.(òÈ8º‚¦Í„2
+G	java:S106"+Replace this use of System.out by a logger.(Œ®šÆ8½‚¦Í„2
+G	java:S106"+Replace this use of System.out by a logger.(Ãµì8áŸ¹Í„2
+F	java:S106"+Replace this use of System.out by a logger.(òÈ8û©¼Í„2
+G	java:S106$"+Replace this use of System.out by a logger.(Ãµì8³ÒÂÍ„2

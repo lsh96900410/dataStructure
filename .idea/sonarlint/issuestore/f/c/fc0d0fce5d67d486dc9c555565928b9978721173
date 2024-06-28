@@ -1,0 +1,19 @@
+
+_
+java:S1854"BRemove this useless assignment to local variable "objectHospital".(ΕγΎφ8Οιή‚2
+e
+java:S1854
+"CRemove this useless assignment to local variable "integerHospital".(Κ…£ƒϋÿÿÿÿ8ρ΄ιή‚2
+a
+java:S1854	"?Remove this useless assignment to local variable "catHospital".(θρΤ«ϊÿÿÿÿ8ρ΄ιή‚2
+a
+java:S1854"?Remove this useless assignment to local variable "dogHospital".(΅©…ώÿÿÿÿ8Ι§κή‚2
+R
+java:S1481"0Remove this unused "dogHospital" local variable.(΅©…ώÿÿÿÿ8Ριή‚2
+R
+java:S1481	"0Remove this unused "catHospital" local variable.(θρΤ«ϊÿÿÿÿ8Λ§κή‚2
+V
+java:S1481
+"4Remove this unused "integerHospital" local variable.(Κ…£ƒϋÿÿÿÿ8Μ§κή‚2
+P
+java:S1481"3Remove this unused "objectHospital" local variable.(ΕγΎφ8ωηκή‚2

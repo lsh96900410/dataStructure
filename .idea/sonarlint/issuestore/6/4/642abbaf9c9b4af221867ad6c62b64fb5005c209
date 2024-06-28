@@ -1,0 +1,32 @@
+
+j
+java:S1854#"HRemove this useless assignment to local variable "inferenceDoubleValue".(à‘„£ÿÿÿÿÿ8Ø¯´à‚2
+k
+java:S1854""IRemove this useless assignment to local variable "inferenceIntegerValue".(›îô·ÿÿÿÿÿ8Æö²à‚2
+`
+java:S1854!"CRemove this useless assignment to local variable "inferenceResult".(Ô´Ô˜8‹óáà‚2
+\
+java:S1854"?Remove this useless assignment to local variable "doubleValue".(Ëè“º8ıâà‚2
+b
+java:S1854"@Remove this useless assignment to local variable "integerValue".(ò”©Çşÿÿÿÿ8ıâà‚2
+\
+java:S1854":Remove this useless assignment to local variable "result".(¶ìûÿÿÿÿ8ıâà‚2
+\
+java:S1854":Remove this useless assignment to local variable "object".(ÛÍùúúÿÿÿÿ8Éö²à‚2
+M
+java:S1481"+Remove this unused "object" local variable.(ÛÍùúúÿÿÿÿ8Êö²à‚2
+G	java:S106"+Replace this use of System.out by a logger.(è¼×ç8åö²à‚2
+X	java:S125"<This block of commented-out lines of code should be removed.(ÑÇï¥8åö²à‚2
+M
+java:S1481"+Remove this unused "result" local variable.(¶ìûÿÿÿÿ8‘óáà‚2
+S
+java:S1481"1Remove this unused "integerValue" local variable.(ò”©Çşÿÿÿÿ8çö²à‚2
+M
+java:S1481"0Remove this unused "doubleValue" local variable.(Ëè“º8Ü¯´à‚2
+G	java:S106 "+Replace this use of System.out by a logger.(Ğî¶8”óáà‚2
+Q
+java:S1481!"4Remove this unused "inferenceResult" local variable.(Ô´Ô˜8Úßâà‚2
+\
+java:S1481"":Remove this unused "inferenceIntegerValue" local variable.(›îô·ÿÿÿÿÿ8ºãà‚2
+[
+java:S1481#"9Remove this unused "inferenceDoubleValue" local variable.(à‘„£ÿÿÿÿÿ8Ñ¬ãà‚2
