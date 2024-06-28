@@ -288,3 +288,7 @@ Q.idea/sonarlint/securityhotspotstore/7/c/7c33e7923f1fc89719328420f0582fb64c2d50
 Q.idea/sonarlint/securityhotspotstore/6/c/6cd1245c190d32e75cb7cb6d14df32bffb731b6c,3\c\3ce9d4ba9cbd60c9d84366dab0e7f09360144a58
 Å
 Q.idea/sonarlint/securityhotspotstore/d/8/d86b682b56f922321e7a0215b66a8f289a9fb1c2,4\7\47a4b013ae23e2c041ca9238cfc945d9aee0c009
+^
+.src/collection/list/MyListPerformanceTest.java,2\9\29ac50d66de56df6495feee735b6b5d016cf5c50
+`
+0src/collection/list/JavaListPerformanceTest.java,5\f\5f9d87d769063997a73425e82cfb3c646fd308b2
