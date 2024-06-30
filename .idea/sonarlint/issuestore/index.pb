@@ -123,8 +123,6 @@ W
 'src/collection/list/BatchProcessor.java,e\3\e369216de54d08ad327eb9b7ae6f9e8213e12659
 [
 +src/collection/list/BatchProcessorMain.java,e\b\eb69ae922666da066caa984bb0844b3f30a32b7e
-=
-src/cote.java,6\f\6f6d395a615f26d978be37d4bbe05192baae1322
 Å
 Q.idea/sonarlint/securityhotspotstore/d/2/d2990f35d0b171e6d8426a73e632d1b11ff91ea2,c\b\cb24edbea95e0c76a600e4fdacccdd673dc63fcb
 Å
@@ -217,8 +215,6 @@ Q.idea/sonarlint/securityhotspotstore/f/c/fc0d0fce5d67d486dc9c555565928b99787211
 Å
 Q.idea/sonarlint/securityhotspotstore/e/b/eb34b39ae2d56021a8807ef22f984d666a6f997c,c\7\c71045a1214e36b2e3371bca69a5edae17bd1c9d
 Å
-Q.idea/sonarlint/securityhotspotstore/6/f/6f6d395a615f26d978be37d4bbe05192baae1322,6\9\69d66c5b688426c3138b6fad55e407ed97f6adb5
-Å
 Q.idea/sonarlint/securityhotspotstore/6/4/642abbaf9c9b4af221867ad6c62b64fb5005c209,7\f\7fe2bcdd6a661ec25462553d07193db9ed579c0e
 Å
 Q.idea/sonarlint/securityhotspotstore/3/8/380035d3fbc6fc02008304316010cd14f76e425f,2\6\2660b4dbd5bd4ac53864effdf9f7767ed321a4ca
@@ -292,3 +288,17 @@ Q.idea/sonarlint/securityhotspotstore/d/8/d86b682b56f922321e7a0215b66a8f289a9fb1
 .src/collection/list/MyListPerformanceTest.java,2\9\29ac50d66de56df6495feee735b6b5d016cf5c50
 `
 0src/collection/list/JavaListPerformanceTest.java,5\f\5f9d87d769063997a73425e82cfb3c646fd308b2
+S
+#src/collection/set/MyHashSetV0.java,0\3\03c6f39e63c4ddd0d886563a6b0066f89de6bca9
+W
+'src/collection/set/MyHashSetV0Main.java,a\4\a447d9bc6fde42c0ca6f3931cd24eb5dea715c86
+R
+"src/collection/set/HashStart1.java,2\a\2a831f2cd685cc742ea2ef465943151b6c30634e
+R
+"src/collection/set/HashStart2.java,4\c\4ce5688a8f932c2575e8ae3b7da9e026e09f9d97
+R
+"src/collection/set/HashStart3.java,e\6\e6bf728eb21c526b1a9b8a2fef1d25be1c0b67fa
+R
+"src/collection/set/HashStart4.java,c\9\c9df78502933169f239f694e636d8415914147a2
+R
+"src/collection/set/HashStart5.java,7\d\7dd5a2f9055e2eda14b0ba17b8c2d47bc5de2b92
