@@ -1,0 +1,13 @@
+
+|
+java:S1192"_Define a constant instead of duplicating this literal "System.identityHashCode(m1) = " 3 times.(Èßü˜8¼Žð¡‡2
+@	java:S106"+Replace this use of System.out by a logger.(ƒ¨¤³
+E	java:S106"+Replace this use of System.out by a logger.(©„§Žùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(±îòòüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Èßü˜
+?	java:S106"+Replace this use of System.out by a logger.(áá£w
+@	java:S106%"+Replace this use of System.out by a logger.(ç’¤™
+X	java:S125("<This block of commented-out lines of code should be removed.(äÀÂÒ8©Ô×¡‡2
+L	java:S1062"+Replace this use of System.out by a logger.(Ò›Ÿïúÿÿÿÿ8¡ëæ¡‡2
+L	java:S1063"+Replace this use of System.out by a logger.(Þ«ƒ“øÿÿÿÿ8¢ëæ¡‡2
+L	java:S1064"+Replace this use of System.out by a logger.(’ÆÁ°úÿÿÿÿ8×Žð¡‡2
