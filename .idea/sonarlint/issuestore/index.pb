@@ -2970,3 +2970,5 @@ P
  src/collection/map/MapMain3.java,0\0\00cecbe9ee0011ca608255706327936883ed0f4d
 S
 #src/collection/map/JavaMapMain.java,8\a\8af07412390e7c68baabfd6757bebbbccaa23321
+S
+#src/collection/deque/StackMain.java,d\2\d27ebd062e287721de36a88aca26c1bb4fe99e3b
