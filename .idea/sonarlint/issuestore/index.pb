@@ -2972,3 +2972,7 @@ S
 #src/collection/map/JavaMapMain.java,8\a\8af07412390e7c68baabfd6757bebbbccaa23321
 S
 #src/collection/deque/StackMain.java,d\2\d27ebd062e287721de36a88aca26c1bb4fe99e3b
+S
+#src/collection/deque/QueueMain.java,9\e\9e317b38700747219789a898c28a74d5eb9e910a
+S
+#src/collection/deque/DequeMain.java,9\9\99eb829e4305616b839cda736376f37f1740d99a

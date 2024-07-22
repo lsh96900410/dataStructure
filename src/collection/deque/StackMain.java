@@ -19,7 +19,6 @@ public class StackMain {
         stack.push(3);
         System.out.println(stack);
 
-
         // 다음 꺼낼 요소 확인(꺼내지 않고 단순 조회만)
         System.out.println("stack.peek() = " + stack.peek());
 
