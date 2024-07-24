@@ -2976,3 +2976,7 @@ S
 #src/collection/deque/QueueMain.java,9\e\9e317b38700747219789a898c28a74d5eb9e910a
 S
 #src/collection/deque/DequeMain.java,9\9\99eb829e4305616b839cda736376f37f1740d99a
+X
+(src/collection/deque/DequeStackMain.java,8\a\8a85032352e7c745956acf26eff4b5ab81f0137e
+X
+(src/collection/deque/DequeQueueMain.java,b\1\b17435090dabffe017464a3d34d4c2abdc18d9a9
